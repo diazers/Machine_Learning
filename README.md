@@ -3,6 +3,7 @@ Materi dipelajari dari [JCOp Untuk Indonesia](https://www.youtube.com/c/JCOpUntu
 
 hal-hal yang dipelajari adalah :
 - data visualisasi
+- EDA
 - dasar-dasar machine learning
 - metode machine learning
 - model evaluation
