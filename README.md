@@ -4,7 +4,7 @@ Materi dipelajari dari [JCOp Untuk Indonesia](https://www.youtube.com/c/JCOpUntu
 hal-hal yang dipelajari adalah :
 - data visualisasi
 - dasar-dasar machine learning
-- metode machine earning
+- metode machine learning
 - model evaluation
 - hyperparameter tuning
 - pipeline workflow
