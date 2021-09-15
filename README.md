@@ -6,6 +6,7 @@ hal-hal yang dipelajari adalah :
 - EDA
 - dasar-dasar machine learning
 - metode machine learning
+- prediksi dan klasifikasi
 - model evaluation
 - hyperparameter tuning
 - pipeline workflow
